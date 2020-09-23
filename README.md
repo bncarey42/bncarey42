@@ -1,4 +1,3 @@
-### Hello there
 ![Image of Obi](https://media2.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 <!--
