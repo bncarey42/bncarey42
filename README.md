@@ -1,6 +1,5 @@
-<div style="margin:auto;">
 ![Image of Obi](https://media2.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
-</div>
+
 
 <!--
 **bncarey42/bncarey42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
