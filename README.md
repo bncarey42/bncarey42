@@ -64,7 +64,8 @@ This list represents just a few of the tools I'm most familiar with. This list i
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" title="golang" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" title="GraphQL" />
->   Reading:
+>
+> #### Reading:
 >     -  "Clean Architecture" - Robert C. Martin
 >     -  "The Age of Surveillance Capitalism" - Shoshana Zuboff
 ></div>
