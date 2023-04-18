@@ -33,19 +33,19 @@ This list represents just a few of the tools I'm most familiar with. This list i
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  width="40" height="40" title="SQL Alchemy" alt="SQL Alchemy"/> 
 ></div>
 >
->### :screwdriver: Databases
->
-><div id="databases">
->   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" alt="MySQL" />
->   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" title="MSSQL" alt="MSSQL"/>
-></div>
->
 >### :cloud: Cloud Tools
 >
 ><div id="cloud">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" alt="AWS" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" title="Terraform" ?alt="Terraform" />    
 >   
+></div>
+>
+>### :screwdriver: Databases
+>
+><div id="databases">
+>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" alt="MySQL" />
+>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" title="MSSQL" alt="MSSQL"/>
 ></div>
 >   
 >### :hammer_and_wrench: Other Tools
