@@ -29,6 +29,7 @@ This list represents just a few of the tools I'm most familiar with. This list i
 >
 ><div id="frameworks">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" title="Spring" alt="Spring"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" title="Vue.js" alt=="Vue.js"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"  width="40" height="40" title="SQL Alchemy" alt="SQL Alchemy"/> 
@@ -70,5 +71,4 @@ This list represents just a few of the tools I'm most familiar with. This list i
 ## :mag_right: I'm currently learning
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" title="golang" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" title="GraphQL" />
