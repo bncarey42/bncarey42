@@ -25,7 +25,7 @@ This list represents just a few of the tools I'm most familiar with. This list i
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="bash" alt="bash"/> 
 > </div>
 >
->### :gear: Frameworks
+>### :gear: Frameworks and Libraries
 >
 ><div id="frameworks">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" title="Spring" alt="Spring"/>
