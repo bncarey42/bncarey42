@@ -3,9 +3,9 @@
    # Hello there. I'm Ben.
    
    <img src="https://media2.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" title="Ben Kenobi says 'Hello There'"/>
-   <div align="left">I am a systems-minded software engineer with a client-focused mindset with 6 years of development and engineering experience. I am questioning and curious, focusing on simplifying big problems to implement effective and maintainable solutions. I am a lifelong student searching for ways to expand my understanding of fundamental and complex ideas.</div>
+   <div align="left">I am a systems-minded software engineer with a client-focused mindset with 7 years of development and engineering experience. I am questioning and curious, focusing on simplifying big problems to implement effective and maintainable solutions. As a lifelong student I am always searching for ways to expand my understanding of fundamental and complex ideas.</div>
    
-   [![Resume](https://img.shields.io/badge/-Resume-black?style=flat&logo=github&logoColor=white)](https://github.com/bncarey42/resume) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamintcarey/)
+   [![Resume](https://img.shields.io/badge/-Resume-black?style=flat&logo=github&logoColor=white)](https://github.com/bncarey42/resume) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamintcarey/) [![Website](https://img.shields.io/badge/-Website-darkgreen?style=flat)](https://bncarey42.github.io/)
 </div>
 
 
