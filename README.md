@@ -73,7 +73,7 @@ This list represents just a few of the tools I'm most familiar with and it is al
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" title="VSCode" alt="VSCode"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" title="vim" alt="vim" />
 > </div>
-
-## :mag_right: I'm currently learning
-
+>
+> ### :mag_right: I'm currently learning
+>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" title="GraphQL" alt="GraphQL"/>
