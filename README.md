@@ -58,9 +58,9 @@ This list represents just a few of the tools I'm most familiar with and it is al
 >
 > ### :computer: Editors
 >
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" width="40" height="40" title="NeoVim" alt="NeoVim"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" title="JetBrains" alt="JetBrains" />
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" title="VSCode" alt="VSCode"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" width="40" height="40" title="NeoVim" alt="NeoVim"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" title="vim" alt="vim" />
 >
 > ### :mag_right: I'm currently learning
