@@ -65,6 +65,6 @@ This list represents just a few of the tools I'm most familiar with and it is al
 >
 > ### :mag_right: I'm currently learning
 >
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="40" height="40" title="gRPC" alt="gRPC"/>/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="40" height="40" title="gRPC" alt="gRPC"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" title="GraphQL" alt="GraphQL"/>
 >
