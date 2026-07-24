@@ -4,7 +4,7 @@
 
   <img src="https://media2.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" title="Ben Kenobi says 'Hello There'" alt="Ben Kenobi from 'Star Wars: A New Hope' pulls back his hood and says 'Hello There.'"/>
   <div align="left">
-    I am a systems-minded software engineer with a client-focused mindset with 7 years of development and engineering experience.
+    I am a systems-minded software engineer with a client-focused mindset with 9 years of development and engineering experience.
     I am questioning and curious, focusing on simplifying big problems to implement effective and maintainable solutions.
     As a lifelong student I am always searching for ways to expand my understanding of fundamental and complex ideas.
   </div>
